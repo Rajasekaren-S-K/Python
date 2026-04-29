@@ -34,8 +34,8 @@ Every week = a dedicated folder with notebooks, assignments, and notes from real
 | Week 2 | **Python** | Core Python — syntax, data structures, OOP, functions | ✅ Done | Week_2/ |
 | Week 3 | **ML — Regression** | EDA, feature engineering, Linear/DT/RF/GBM/AdaBoost/XGBoost, R² | ✅ Done | Week_3/ |
 | Week 4.1 | **ML — Classification** | Logistic Regression, SVM, KNN, Decision Trees, evaluation metrics | ✅ Done | Week_4/ |
-| Week 4.2 | **ML — Clustering** | K-Means, DBSCAN, Hierarchical clustering, silhouette score | 🔜 | — |
-| Week 4.3 | **Practice — Coding & Error Handling** | Real-world ML debugging, pipelines, code quality | 🔜 | — |
+| Week 4.2 | **ML — Clustering** | K-Means, DBSCAN, Hierarchical clustering, silhouette score | ✅ Done | Week_4/  |
+| Week 4.3 | **Practice — Coding & Error Handling** | Real-world ML debugging, pipelines, code quality | ✅ Done | Week_4/  |
 | Week 5 | **Data Science — Univariate Analysis** | Distributions, central tendency, spread, outlier detection | 🔜 | — |
 | Week 6 | **Data Science — Bivariate Analysis** | Correlation, cross-tabs, pair plots, statistical relationships | 🔜 | — |
 | Week 7 | **Data Visualization** | Seaborn, Tableau, Data Studio — storytelling with data | 🔜 | — |
